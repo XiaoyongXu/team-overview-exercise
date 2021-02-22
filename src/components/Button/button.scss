@@ -1,0 +1,20 @@
+.btn-icon {
+  all: unset;
+  font-size: 22px;
+  color: white;
+  transition-timing-function: ease-in-out;
+  transition-duration: 300ms;
+}
+
+.btn-icon:hover { 
+  color: white;
+  opacity: 0.5;
+  transition-timing-function: ease-in-out;
+  transition-duration: 300ms;
+}
+
+.btn-icon:active {
+  opacity: 1;
+  transition-timing-function: ease-in-out;
+  transition-duration: 300ms;
+}

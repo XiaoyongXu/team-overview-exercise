@@ -1,0 +1,28 @@
+.page-root{
+  display: flex;
+  flex: 1;
+  justify-content: flex-start;
+  flex-direction: column;
+  .page-main{
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+  .page-main-center{
+    display: flex;
+    padding: 50px;
+    flex-wrap: wrap;
+    justify-content: center;
+    .page-main-body{
+      display: flex;
+      width: 50%;
+      .text-group{
+        display: flex;
+        flex-direction: column;
+        width: 500px;
+        margin: 40px;
+      }
+    }
+  }
+}

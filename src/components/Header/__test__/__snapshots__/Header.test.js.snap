@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`matches snapshot 1 1`] = `
+<div
+  className="header-root"
+  data-testid="header"
+>
+  <div
+    className="header-main"
+  >
+    <div
+      className="header-title"
+    >
+      test title
+    </div>
+  </div>
+</div>
+`;
+
+exports[`matches snapshot 2 1`] = `
+<div
+  className="header-root"
+  data-testid="header"
+>
+  <button
+    className="btn-icon"
+    data-testid="button"
+    onClick={[Function]}
+    style={
+      Object {
+        "left": 20,
+        "position": "absolute",
+        "top": 20,
+      }
+    }
+    type="button"
+  >
+    Back
+  </button>
+  <div
+    className="header-main"
+  >
+    <div
+      className="header-title"
+    />
+  </div>
+</div>
+`;

@@ -3,5 +3,5 @@ import { render } from '@testing-library/react'
 import App from './App'
 it('renders without crashing', () => {
   const { getByText } = render(<App />)
-  expect(getByText('Learn React')).toBeInTheDocument()
+  expect(getByText('TEAM OVERVIEW')).toBeInTheDocument()
 })

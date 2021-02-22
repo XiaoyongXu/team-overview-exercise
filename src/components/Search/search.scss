@@ -1,0 +1,15 @@
+
+.searchInput:focus {
+    outline: none;
+}
+
+.searchComponent {
+    background-color: white;
+    border: solid 1px white;
+}
+
+.searchComponent:hover {
+    transition: 0.2s;
+    border: solid 1px black;
+}
+
