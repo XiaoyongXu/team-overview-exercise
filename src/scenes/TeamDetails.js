@@ -58,7 +58,6 @@ class TeamDetails extends Component {
           style={{ height: 140 }}
           backLabel="Back"
           onBack={() => history.push({ pathname: '/' })}
-          data-testid="TeamDetails"
         >
           <Search
             value={search}
