@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 # Brief
 A Front-end Web app for simple navigation system with between teams and users.
 
+# Library
+1. Components and Routing: react, react-dom, react-router-dom
+2. Styling: bootstrap, node-sass, reactstrap, @fortawesome
+3. Testing: @testing-library, react-test-renderer
+4. Code style formatting: Eslint
 
 ## Setup
 
