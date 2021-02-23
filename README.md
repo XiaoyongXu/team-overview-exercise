@@ -13,7 +13,7 @@ A Front-end Web app for simple navigation system with between teams and users.
 
 ## Setup
 
-1. Run `yarn add` to install dependencies.
+1. Run `yarn` to install dependencies.
 2. Run `yarn start` to run the app locally.
 
 
